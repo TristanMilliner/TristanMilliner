@@ -1,8 +1,8 @@
 ## Table of Contents
-1. [Introduce Myself](#f)
-2. [My Skills]
-3. [My Finished Projects]
-4. [My Projects in Development]
+1. [Introduce Myself](#Introduce-Myself)
+2. [My Skills](#My-Skills)
+3. [My Finished Projects](#My-Finished-Projects)
+4. [My Projects in Development](#My-Projects-in-Development)
 
 
 ### Introduce Myself
